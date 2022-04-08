@@ -20,10 +20,10 @@
 
 ***
 
-'hello world'
+`Incline code`
 
-'''
+```
 # code block
-'''
+```
 
 
