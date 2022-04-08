@@ -13,7 +13,7 @@
 - Here you can open a new file in the top left corner and name it
       *if you are using java use:* ` .java`
       
-
+***
 
 **Step Two:**
 *Remotely Connecting*
@@ -27,7 +27,7 @@
   You are now connected :D
   ![image](https://user-images.githubusercontent.com/100736576/162541027-d3e755ec-e9f3-4aa7-8c21-9bf325a671f1.png)
 
-  
+***  
   
   
 **Step Three:**
@@ -38,7 +38,7 @@
   - `cd ~`
   - `ls`
   - `ls -lat`
- 
+ ***
  - Here is how some of these commands work:
     - cd means change directory
     - ls shows us a list of everything in the directory
@@ -47,8 +47,16 @@
  After running these commands, your terminal might look like this:
  ![image](https://user-images.githubusercontent.com/100736576/162541845-e4203bc9-06f8-4ad3-b3af-bd5ed0b58ab9.png)
 
+***
 
 **Step Four:**
 *Moving files with* `scp`
+***
+- In this step we are going to see how we can move files over from our own personal computer to the remote- computer:
+                                                                                                                     
+- Lets make a file to try with called **WhereAmI.java**
+- ![image](https://user-images.githubusercontent.com/100736576/162542185-850d2e29-0840-4c4b-b268-f1ec948b8201.png)
+
+
 
 
