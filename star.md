@@ -14,13 +14,13 @@
 2. sun
 3. moon
 
-- april
+- **april**
 - may
 - june
 
 ***
 
-`Incline code`
+`This is fun :D`
 
 ```
 # code block
