@@ -7,7 +7,7 @@
 - Download VSCode [here:](https://code.visualstudio.com/download)
 
 - Once you open it, it should look like this:
--![image](https://user-images.githubusercontent.com/100736576/162540822-57c32eb7-c96e-4605-ac65-d279474423d8.png | width = 50)
+-![image](https://user-images.githubusercontent.com/100736576/162540822-57c32eb7-c96e-4605-ac65-d279474423d8.png)
 
  
 - Here you can open a new file in the top left corner and name it
@@ -25,7 +25,7 @@
   
   It will prompt you to answer a y/n question, say yes and type in your password!
   You are now connected :D
-  ![image](https://user-images.githubusercontent.com/100736576/162541027-d3e755ec-e9f3-4aa7-8c21-9bf325a671f1.png |width = 25)
+  ![image](https://user-images.githubusercontent.com/100736576/162541027-d3e755ec-e9f3-4aa7-8c21-9bf325a671f1.png)
 
 ***  
   
@@ -45,7 +45,7 @@
     - cat prints out the output of the file
  
  After running these commands, your terminal might look like this:
- ![image](https://user-images.githubusercontent.com/100736576/162541845-e4203bc9-06f8-4ad3-b3af-bd5ed0b58ab9.png | width = 50)
+ ![image](https://user-images.githubusercontent.com/100736576/162541845-e4203bc9-06f8-4ad3-b3af-bd5ed0b58ab9.png)
 
 ***
 
@@ -55,7 +55,7 @@
 - In this step we are going to see how we can move files over from our own personal computer to the remote- computer:
                                                                                                                      
 - Lets make a file to try with called **WhereAmI.java**
-- ![image](https://user-images.githubusercontent.com/100736576/162542185-850d2e29-0840-4c4b-b268-f1ec948b8201.png | width = 30)
+- ![image](https://user-images.githubusercontent.com/100736576/162542185-850d2e29-0840-4c4b-b268-f1ec948b8201.png)
 
 
 
