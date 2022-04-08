@@ -6,7 +6,7 @@
 
 [Link](https://celesteck.github.io/cse15l-lab-reports/)
 
-![Image](https://i.pinimg.com/736x/0e/bd/58/0ebd5803bf82f00faea237f975cc4a46.jpg)
+![Image](https://images.prismic.io/nomakenolife/15066336735f8d65864627965855723583dbe870_bt211.jpg?auto=compress,format)
 
 > Happy Friday
 
