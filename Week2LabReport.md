@@ -68,7 +68,23 @@ Here it is on a split terminal:
 **Step Five:**
 *Setting an SSH key*
 ***
-- In this step we will speed up the process to move the files over by making a key!
+- In this step we will see how to use a key rather than our password to log in and run `scp`
+
+1. Begin on your computer and run `sshk-keygen`. Do not set a passphrase and press enter
+2. Then run `ssh cs15lsp22agl@ieng6.ucsd.edu` and enter your password
+3. Run `mkdir .ssh` 
+4. Run `scp /Users/<celes>/.ssh/id_rsa.pub cs15lsp22agl@ieng6.ucsd.edu:~/.ssh/authorized_keys` 
+5. Now you can `ssh` or `scp` with no password
+
+When you log in, it will look like this;
+![image](https://user-images.githubusercontent.com/100736576/162543561-f2458ee6-130a-45a0-8bcc-ba2fb3a741a6.png)
+
+***
+
+**Step Six:**
+*Optimizing Remote Running*
+***
+- In this step we will make this process even quicker. This is especially helpful when making edits locally on your file.
 
 
 
