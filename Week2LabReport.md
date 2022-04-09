@@ -88,7 +88,8 @@ When you log in, it will look like this;
 - We can learn that special syntax that will make running code faster
    1. put the command in "quotes" at the end of an ssh command to run it on the remote server
    2. use semi-colons to run multiple commands on the same line
-      
+      ![image](https://user-images.githubusercontent.com/100736576/162549238-39a6a750-4a4e-46b7-ae90-5791ae90cba9.png)
+
       
 
 
