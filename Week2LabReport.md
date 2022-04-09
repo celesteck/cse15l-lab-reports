@@ -85,7 +85,10 @@ When you log in, it will look like this;
 *Optimizing Remote Running*
 ***
 - In this step we will make this process even quicker. This is especially helpful when making edits locally on your file.
-
-
+- We can learn that special syntax that will make running code faster
+   1. put the command in "quotes" at the end of an ssh command to run it on the remote server
+   2. use semi-colons to run multiple commands on the same line
+      
+      
 
 
