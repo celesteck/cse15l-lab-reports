@@ -1,7 +1,7 @@
 # How To Log Into a Course-Specific Account On `ieng6`
 
 
-**Step One:**
+###**Step One:**
 *Installing VSCode*
 
 - Download VSCode [here:](https://code.visualstudio.com/download)
@@ -16,7 +16,7 @@
 ***
 
 **Step Two:**
-*Remotely Connecting*
+###*Remotely Connecting*
 
 - Install a program called OpenSSH [here](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
 
