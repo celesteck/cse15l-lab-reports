@@ -1,7 +1,7 @@
 # How To Log Into a Course-Specific Account On `ieng6`
 
 
-###Step One:
+### Step One:
 *Installing VSCode*
 
 - Download VSCode [here:](https://code.visualstudio.com/download)
@@ -16,7 +16,7 @@
 ***
 
 **Step Two:**
-###Remotely Connecting
+### Remotely Connecting
 
 - Install a program called OpenSSH [here](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
 
@@ -31,7 +31,7 @@
   
   
 **Step Three:**
-*Trying Some Commands*
+Trying Some *Commands*
 
 - Here are some commands we ran:
   - `cd`
@@ -49,7 +49,7 @@
 
 ***
 
-**Step Four:**
+Step **Four:**
 *Moving files with* `scp`
 ***
 - In this step we are going to see how we can move files over from our own personal computer to the remote- computer:
@@ -65,8 +65,8 @@ Here it is on a split terminal:
 ![image](https://user-images.githubusercontent.com/100736576/162542806-8f5caeaf-b96b-494b-b7cb-133332d81484.png)
 
 ***
-**Step Five:**
-*Setting an SSH key*
+## **Step Five:**
+### *Setting an SSH key*
 ***
 - In this step we will see how to use a key rather than our password to log in and run `scp`
 
@@ -81,8 +81,8 @@ When you log in, it will look like this;
 
 ***
 
-**Step Six:**
-*Optimizing Remote Running*
+## **Step Six:**
+### *Optimizing Remote Running*
 ***
 - In this step we will make this process even quicker. This is especially helpful when making edits locally on your file.
 - We can learn that special syntax that will make running code faster
