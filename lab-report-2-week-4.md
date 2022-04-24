@@ -12,7 +12,7 @@
 
 [Failure Inducing File](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-file8.md)
 
-#####Symptom
+##### Symptom
 
 - When the proper format was followed but the content between the parenthesis was not a link, it would print out the content between the parenthesis. Since this was not a real link, it should have just returned "[]". In order to fix this, we used the "contains()" method to see if there was any empty space between the parethesis, if there was, that meant this was not a link and the loop should break and return nothing. 
 
