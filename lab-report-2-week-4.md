@@ -7,7 +7,8 @@
 
 *Fake link*
 
-![image](https://user-images.githubusercontent.com/100736576/165000509-4c682f5a-8db8-495f-a798-b79dd3aa609f.png)
+![image](https://user-images.githubusercontent.com/100736576/165001562-7467c50c-ca84-4f7e-92e7-0a51ce5ca8d4.png)
+
 
 [Failure Inducing File](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-file8.md)
 
