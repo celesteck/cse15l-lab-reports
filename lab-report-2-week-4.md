@@ -12,9 +12,16 @@
 [Failure Inducing File](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-file8.md)
 
 
-- When the proper format was followed, "[]()", but the content between the parenthesis was not a link, it would print out the content between the parenthesis. Since this was not a real link, it should have just returned "[]". In order to fix this, we used the "contains()" method to see if there was any empty space between the parethesis, if there was, that meant this was not a link and the loop should break and return nothing. 
+- When the proper format was followed but the content between the parenthesis was not a link, it would print out the content between the parenthesis. Since this was not a real link, it should have just returned "[]". In order to fix this, we used the "contains()" method to see if there was any empty space between the parethesis, if there was, that meant this was not a link and the loop should break and return nothing. 
 
 ***
 
 #### ***Code Change 2:***
 
+*Improper Formating*
+
+![image](https://user-images.githubusercontent.com/100736576/165000879-33a5621e-7d62-4524-a436-bf7d474c1391.png)
+
+[Failure Inducing File](https://github.com/celesteck/markdown-parser/blob/main/test2.md)
+
+- 
