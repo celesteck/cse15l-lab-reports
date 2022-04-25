@@ -41,4 +41,7 @@
 
 [Failure Inducing File](https://github.com/celesteck/markdown-parser/blob/main/test2.md)
 
-***Symptom***
+***Symptom*** `infinite loop`
+![image](https://user-images.githubusercontent.com/100736576/165003144-e3331885-c269-4f90-8e34-45b43657359a.png)
+- Here, we can see that the code would not end as it is searching for the close bracket. Since there is no close bracket, in order to fix this, we made an if statement that allowed the code to break the loop if the close bracket was not found. This allowed it to only print out the second link.
+
