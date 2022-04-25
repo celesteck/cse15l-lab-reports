@@ -3,7 +3,7 @@
 
 ***
 
-#### ***Code Change 1:***
+### **Code Change 1:**
 
 *Fake link*
 
@@ -20,7 +20,7 @@
 
 ***
 
-#### ***Code Change 2:***
+### **Code Change 2:**
 
 *Improper Formating*
 
@@ -34,7 +34,7 @@
 
 ***
 
-### ***Code Change 3:***
+### **Code Change 3:**
 *No closing bracket*
 
 ![image](https://user-images.githubusercontent.com/100736576/165003045-e0fead86-6f0b-4682-b2a1-e4f6dcab03e9.png)
