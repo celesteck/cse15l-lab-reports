@@ -29,4 +29,10 @@
 
 ***Symptom***
 `Exception in thread "main" java.lang.OutOfMemoryError: Java heap space at java.base/java.util.Arrays.copyOfRange(Arrays.java:3822) at java.base/java.lang.StringLatin1.newString(StringLatin1.java:769) at java.base/java.lang.String.substring(String.java:2709) at MarkdownParse.getLinks(MarkdownParse.java:29) at MarkdownParse.main(MarkdownParse.java:40)`
-- 
+- The issue here was the lack of a set of parenthesis after the brackets. This caused the code to continue running because it was searching for the open parenthesis. In order to fix it, starting from the close bracket, if there was no open parenthesis found, it would break the loop and return nothing.
+
+***
+
+### ***Code Change 3:***
+
+
