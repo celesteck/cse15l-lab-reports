@@ -25,6 +25,8 @@
 
 ![image](https://user-images.githubusercontent.com/100736576/165000879-33a5621e-7d62-4524-a436-bf7d474c1391.png)
 
-[Failure Inducing File](https://github.com/celesteck/markdown-parser/blob/main/test2.md)
+[Failure Inducing File](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-file4.md)
 
+***Symptom***
+`Exception in thread "main" java.lang.OutOfMemoryError: Java heap space at java.base/java.util.Arrays.copyOfRange(Arrays.java:3822) at java.base/java.lang.StringLatin1.newString(StringLatin1.java:769) at java.base/java.lang.String.substring(String.java:2709) at MarkdownParse.getLinks(MarkdownParse.java:29) at MarkdownParse.main(MarkdownParse.java:40)`
 - 
