@@ -35,5 +35,10 @@
 ***
 
 ### ***Code Change 3:***
+*No closing bracket*
 
+![image](https://user-images.githubusercontent.com/100736576/165003045-e0fead86-6f0b-4682-b2a1-e4f6dcab03e9.png)
 
+[Failure Inducing File](https://github.com/celesteck/markdown-parser/blob/main/test2.md)
+
+***Symptom***
