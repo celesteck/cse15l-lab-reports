@@ -4,4 +4,4 @@ hello :D
 
 [Lab Report 2](https://github.com/celesteck/cse15l-lab-reports/blob/main/lab-report-2-week-4.md)
 
-[Lab Report 3]()
+[Lab Report 3](https://github.com/celesteck/cse15l-lab-reports/blob/main/lab-report-3-week-6.md)
