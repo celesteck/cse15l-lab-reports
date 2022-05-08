@@ -31,5 +31,10 @@
 ***
 ## Copy whole directories with `scp -r`
 
+- By inputting `scp -r . cs15lsp22agl@ieng6.ucsd.edu:~/markdown-parse`into the terminal, this is is how I can copy the entire directory into my `ieng` account as shown here
+ ![image](https://user-images.githubusercontent.com/100736576/167313026-26387b62-2874-4526-b557-2ba549ded236.png)
+- Now I can log into my `ieng6` account using `ssh` and see all of these files in my directory also called **Markdown-parse**
+- 
+
 
 
