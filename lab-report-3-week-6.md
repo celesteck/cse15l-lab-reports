@@ -33,8 +33,13 @@
 
 - By inputting `scp -r . cs15lsp22agl@ieng6.ucsd.edu:~/markdown-parse`into the terminal, this is is how I can copy the entire directory into my `ieng` account as shown here
  ![image](https://user-images.githubusercontent.com/100736576/167313026-26387b62-2874-4526-b557-2ba549ded236.png)
-- Now I can log into my `ieng6` account using `ssh` and see all of these files in my directory also called **Markdown-parse**
-- 
+- Now I can log into my `ieng6` account using `ssh` and see all of these files in my directory also called **markdown-parse**
+![image](https://user-images.githubusercontent.com/100736576/167313625-4c937f5d-85a9-479a-a1f0-03e973bb1f09.png)
+- To simplify this process we can use the `ssh` command and the `scp` commands in one line using a **;**
+- The command looks like this : `scp -r *.java *.md lib/ ieng6:markdown-parse`
+- Because I streamlined the ssh configuration as seen earlier, I am able to just use ieng6, my *alias*.
+![image](https://user-images.githubusercontent.com/100736576/167313903-b3bfdc5f-261c-45a3-ae43-38375135f255.png)
+
 
 
 
