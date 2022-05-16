@@ -24,7 +24,9 @@
 ![image](https://user-images.githubusercontent.com/100736576/168501168-29e5c292-f6db-4cad-915c-cdc2ed47110e.png)
 
 - Now if we log into our `ieng6` account we can use git commands to commit and push changes
-- ![image](https://user-images.githubusercontent.com/100736576/167280080-2910436d-f6b4-40fe-aa38-17674bb33794.png)
+- ![image](https://user-images.githubusercontent.com/100736576/168508447-9e0c52b2-807e-4bdf-8da2-9530f675942e.png)
+
+
 
 [here is the resulting commit](https://github.com/celesteck/cse15l-lab-reports/commit/6ec3b257a20aa2e110317f707f897f6cd6124ad2)
 
