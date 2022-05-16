@@ -20,8 +20,12 @@
 - The public key you made will be found in the `SSH and GPG keys` tab under **Access**
 - ![image](https://user-images.githubusercontent.com/100736576/167279559-be68c1a5-80f4-4eea-b52a-a9a915e6f85e.png)
 
+- This is what it looks like on my user account:
+- ![image](https://user-images.githubusercontent.com/100736576/168512660-ca1f3bc1-dcf2-4b4b-ae4a-04ab2a2c19e4.png)
+
 -In order to find the private key, you can change your directory to `ssh`, then you can `ls` and you can see it in your current directory
 ![image](https://user-images.githubusercontent.com/100736576/168501168-29e5c292-f6db-4cad-915c-cdc2ed47110e.png)
+
 
 - Now if we log into our `ieng6` account we can use git commands to commit and push changes
 - ![image](https://user-images.githubusercontent.com/100736576/168508447-9e0c52b2-807e-4bdf-8da2-9530f675942e.png)
