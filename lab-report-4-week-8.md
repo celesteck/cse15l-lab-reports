@@ -26,12 +26,11 @@ This is what we get when we run a junit test on the *other* implementation:
 The expected output should be [a.com, a.com((, example.com]
 - In order to test this case, I did:
 - ![image](https://user-images.githubusercontent.com/100736576/169719280-cc946850-f16a-46c3-8f7e-de93dba71ae4.png)
-1. For this implementation, I realized that I failed to account for the nested links. I think that in this case, I could create an if statement to check if the index of the open bracket is less than than the index of the close bracket from the previous open bracket. If it is, then it will read that link. I think that this case would be less than 10 lines of code.
 
 This is what happens when the test is run on my implementation:
 - it `**FAILED**`
 ![image](https://user-images.githubusercontent.com/100736576/169719659-21b26bb3-617e-4cf9-a043-b9a1300ed27e.png)
-1. In order to fix my implementation here, I think that it would 
+1. For this implementation, I realized that I failed to account for the nested links. I think that in this case, I could create an if statement to check if the **index of** the `open bracket` is less than than the **index of** the `close bracket` from the previous open bracket. If it is, then it will read that link. I think that this case would be less than 10 lines of code.
 
 Here is the output from the *other* implementation:
 - it `**FAILED**`
@@ -51,7 +50,7 @@ The expected output should be [https://sites.google.com/eng.ucsd.edu/cse-15l-spr
 This is the result of the junit test on my implementation: 
 - it `**FAILED**`
 ![image](https://user-images.githubusercontent.com/100736576/169719680-ed366625-ef5f-4587-abd3-7d4b2821a413.png)
-1. My program for this case fails because it does not account for all of the extra space that is left between all of `()` and `[]`. In order to fix this case, I think that it might be possible to solve this in less than 10 lines. If I create an if statement that checks what the character following the open bracket or open parenthesis is. If it is an open space " ", then it will not return the link within the parenthesis. 
+1. My program for this case fails because it does not account for all of the `extra space` that is left between all of `()` and `[]`. In order to fix this case, I think that it might be possible to solve this in less than 10 lines. If I create an if statement that checks what the character **following** the `open bracket` or `open parenthesis` is. If it is an `open space` " ", then it will not return the link within the parenthesis. 
 This is the result from the *other* implementation:
 - it `**FAILED**`
 ![image](https://user-images.githubusercontent.com/100736576/169719693-53ca3ef3-729d-48d7-9452-0b1a51211bbf.png)
