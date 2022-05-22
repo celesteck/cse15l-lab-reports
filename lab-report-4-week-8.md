@@ -1,7 +1,7 @@
 # Lab Report 4, Week 8
 
-- Link to [my-markdown-parse]()
-- Link to [markdown-parse-week7]()
+- Link to [my-markdown-parse](https://github.com/celesteck/markdown-parser-new)
+- Link to [markdown-parse-week7](https://github.com/ima-quack/markdown-parser)
 ***
 ### **Snippet 1**
 
