@@ -1,5 +1,5 @@
 # Lab Report 4, Week 8
-- In order to identify the correct output of each snip it, I used [Commonmark](https://spec.commonmark.org/dingus/?text=%60%5Ba%20link%60%5D(url.com)%0A%0A%5Banother%20link%5D(%60google.com)%60%0A%0A%5B%60cod%5Be%60%5D(google.com)%0A%0A%5B%60code%5D%60%5D(ucsd.edu)%0A%0A)
+- In order to identify the **correct** output of each snippet, I used [Commonmark](https://spec.commonmark.org/dingus/?text=%60%5Ba%20link%60%5D(url.com)%0A%0A%5Banother%20link%5D(%60google.com)%60%0A%0A%5B%60cod%5Be%60%5D(google.com)%0A%0A%5B%60code%5D%60%5D(ucsd.edu)%0A%0A)
 - Link to [my-markdown-parse](https://github.com/celesteck/markdown-parser-new)
 - Link to [markdown-parse-week7](https://github.com/ima-quack/markdown-parser)
 ***
