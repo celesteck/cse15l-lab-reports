@@ -16,7 +16,7 @@ This should produce [`google.com, google.com, ucsd.edu]
 1. In order to fix make my program produce the correct output, I think that it would take less than 10 lines of code. I could simply add an if statement to check for characters that preceed the `opening bracket` character, specifically for the " ` " character. If it is there, it will go to the next opening bracket and not return this link. 
 
 -This is what we get when we run a junit test on the *other* implementation:
-- it `**PASSED**`
+- it `**FAILED**`
 ![image](https://user-images.githubusercontent.com/100736576/169719596-17ec4a88-c1c5-40fc-9815-81bb5785498a.png)
 
 ***
