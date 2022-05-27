@@ -23,7 +23,7 @@ This should produce [`google.com, google.com, ucsd.edu]
 
 ### **Snippet 2**
 
-The expected output should be [a.com, a.com((, example.com]
+The expected output should be [a.com, a.com(()), example.com]
 - In order to test this case, I did:
 - ![image](https://user-images.githubusercontent.com/100736576/169719280-cc946850-f16a-46c3-8f7e-de93dba71ae4.png)
 
