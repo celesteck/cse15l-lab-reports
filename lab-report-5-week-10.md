@@ -7,7 +7,12 @@
 - I did this in the other repository and then used `vim diff` to open both files in order to compare them.
 
 ### TEST 1
-- [Link to test22](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/170.md)
+- [Link to test170](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/170.md)
 - What
 
 ![image](https://user-images.githubusercontent.com/100736576/172103066-04fe8b38-6528-4e00-a2e0-6108bbefa28b.png)
+
+This is what is supposed to be printed out:
+![image](https://user-images.githubusercontent.com/100736576/172107298-46e39eeb-4e61-4e77-ad92-4885f8e142e6.png)
+
+- But as we can see this is not what is returned because the code 
