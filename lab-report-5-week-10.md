@@ -8,7 +8,7 @@
 
 ### TEST 1
 - [Link to test170](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/170.md)
-- What
+***
 
 ![image](https://user-images.githubusercontent.com/100736576/172103066-04fe8b38-6528-4e00-a2e0-6108bbefa28b.png)
 
@@ -16,3 +16,9 @@ This is what is supposed to be printed out:
 - ![image](https://user-images.githubusercontent.com/100736576/172107298-46e39eeb-4e61-4e77-ad92-4885f8e142e6.png)
 
 - But as we can see this is not what is returned.  It's not the correct output that I wanted, but something is still printed out. This means that the code functional, but it printed the wrong thing. Since there are open and closed parenthesis around demo, it is likely that is the reason why my code had printed it out. 
+***
+
+### TEST 2
+- [Link to test376](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/376.md)
+
+- ![image](https://user-images.githubusercontent.com/100736576/172113785-5186c613-7160-4b72-b2ae-5856a8967caa.png)
