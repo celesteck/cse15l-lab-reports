@@ -22,3 +22,8 @@ This is what is supposed to be printed out:
 - [Link to test376](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/376.md)
 
 - ![image](https://user-images.githubusercontent.com/100736576/172113785-5186c613-7160-4b72-b2ae-5856a8967caa.png)
+
+This is what is supposed to be printed out:
+- ![image](https://user-images.githubusercontent.com/100736576/172114347-5c43994b-5e59-4903-a22d-3cd442ec8142.png)
+
+- But as we can see, this is not what is returned here either. Analogous to the other test, it is likely because bar is within the parenthesis and for this reason my code has printed it out. My code does not have an extreme error. 
